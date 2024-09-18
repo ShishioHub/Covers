@@ -1,15 +1,15 @@
 @import "https://malscraper.azurewebsites.net/covers/all/anime/presets/dataimagelinkafter";
 {}
 
-.data.image a[href^="/anime/55408/"]:after{background-image:url(https://i.postimg.cc/NFNwQKb4/1200x1200bf-60.jpg) !important;}
+.data.image a[href^="/anime/55408/"]:after{background-image:url(https://i.ibb.co/4ZQjX1h/1200x1200bf-60-1.jpg) !important;}
 
-.data.image a[href^="/anime/1317/"]:after{background-image:url(https://i.postimg.cc/y8R0yksT/image.png) !important;}
+.data.image a[href^="/anime/1317/"]:after{background-image:url(https://i.ibb.co/vDLYvWV/image-1.png) !important;}
 
-.data.image a[href^="/anime/43879/"]:after{background-image:url(https://i.postimg.cc/nhnQBTSn/large.jpg) !important;}
+.data.image a[href^="/anime/43879/"]:after{background-image:url(https://i.ibb.co/hsCX7zk/large-1.jpg) !important;}
 
-.data.image a[href^="/anime/56894/"]:after{background-image:url(https://cdn.myanimelist.net/images/anime/1353/144331l.jpg) !important;}
+.data.image a[href^="/anime/56894/"]:after{background-image:url(https://i.ibb.co/bBvNQTz/144331l-1.jpg) !important;}
 
-.data.image a[href^="/anime/4772/"]:after{background-image:url(https://i.ibb.co/MCJHLTN/pasted-image-0.png) !important;}
+.data.image a[href^="/anime/4772/"]:after{background-image:url(https://i.ibb.co/0KyffDS/pasted-image-0-1.png) !important;}
 
 .data.image a[href^="/anime/1/"]:after{background-image:url(https://cdn.myanimelist.net/images/anime/4/19644l.jpg)}
 .data.image a[href^="/anime/5/"]:after{background-image:url(https://cdn.myanimelist.net/images/anime/1439/93480l.jpg)}
