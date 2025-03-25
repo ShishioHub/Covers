@@ -1,5 +1,5 @@
 @import "https://malscraper.azurewebsites.net/covers/all/anime/presets/dataimagelinkbefore";
-@import "https://malscraper.azurewebsites.net/covers/all/manga/presets/dataimagelinkbefore";
+
 
 .data.image a[href^="/anime/55408/"]:before{background-image:url(https://i.ibb.co/4ZQjX1h/1200x1200bf-60-1.jpg) !important;}
 
