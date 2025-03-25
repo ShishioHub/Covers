@@ -1,4 +1,5 @@
 @import "https://malscraper.azurewebsites.net/covers/all/anime/presets/dataimagelinkbefore";
+@import "https://malscraper.azurewebsites.net/covers/all/manga/presets/dataimagelinkbefore";
 
 .data.image a[href^="/anime/55408/"]:before{background-image:url(https://i.ibb.co/4ZQjX1h/1200x1200bf-60-1.jpg) !important;}
 
@@ -10,9 +11,11 @@
 
 .data.image a[href^="/anime/4772/"]:before{background-image:url(https://i.ibb.co/0KyffDS/pasted-image-0-1.png) !important;}
 
+.data.image a[href^="/anime/35104/"]:before{background-image:url(https://i.ibb.co/FqDVGNST/94-U4007004-waifu2x-art-scale.png) !important;}
+
 
 /* anime preset: dataimagelinkbefore */
-/* Generated: 2025-03-17T19:30:05Z */
+/* Generated: 2025-03-25T21:22:57Z */
 .data.image a[href^="/anime/1/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/4/19644l.jpg)}
 .data.image a[href^="/anime/5/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1439/93480l.jpg)}
 .data.image a[href^="/anime/6/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1130/120002l.jpg)}
@@ -7493,7 +7496,7 @@
 .data.image a[href^="/anime/16718/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/5/44956l.jpg)}
 .data.image a[href^="/anime/16726/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/10/45350l.jpg)}
 .data.image a[href^="/anime/16728/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1760/96433l.jpg)}
-.data.image a[href^="/anime/16730/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/3/44986l.jpg)}
+.data.image a[href^="/anime/16730/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1495/148677l.jpg)}
 .data.image a[href^="/anime/16732/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1793/117610l.jpg)}
 .data.image a[href^="/anime/16738/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/10/45276l.jpg)}
 .data.image a[href^="/anime/16740/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/13/45024l.jpg)}
@@ -12110,7 +12113,7 @@
 .data.image a[href^="/anime/34005/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/4/81875l.jpg)}
 .data.image a[href^="/anime/34006/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/7/85753l.jpg)}
 .data.image a[href^="/anime/34008/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1752/96673l.jpg)}
-.data.image a[href^="/anime/34009/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/2/82347l.jpg)}
+.data.image a[href^="/anime/34009/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/3/89871l.jpg)}
 .data.image a[href^="/anime/34012/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/3/86666l.jpg)}
 .data.image a[href^="/anime/34013/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/7/82323l.jpg)}
 .data.image a[href^="/anime/34014/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/10/81900l.jpg)}
@@ -15046,7 +15049,7 @@
 .data.image a[href^="/anime/38899/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1282/97863l.jpg)}
 .data.image a[href^="/anime/38901/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1283/97874l.jpg)}
 .data.image a[href^="/anime/38902/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1192/97875l.jpg)}
-.data.image a[href^="/anime/38903/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1136/124521l.jpg)}
+.data.image a[href^="/anime/38903/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1181/148693l.jpg)}
 .data.image a[href^="/anime/38905/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1508/97879l.jpg)}
 .data.image a[href^="/anime/38906/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1416/97880l.jpg)}
 .data.image a[href^="/anime/38907/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1967/97897l.jpg)}
@@ -20952,9 +20955,9 @@
 .data.image a[href^="/anime/48804/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1777/117885l.jpg)}
 .data.image a[href^="/anime/48810/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1314/120786l.jpg)}
 .data.image a[href^="/anime/48814/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1303/114587l.jpg)}
-.data.image a[href^="/anime/48820/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1629/138397l.jpg)}
+.data.image a[href^="/anime/48820/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1606/148691l.jpg)}
 .data.image a[href^="/anime/48824/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1521/114598l.jpg)}
-.data.image a[href^="/anime/48825/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1444/114599l.jpg)}
+.data.image a[href^="/anime/48825/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1243/148678l.jpg)}
 .data.image a[href^="/anime/48827/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1526/114608l.jpg)}
 .data.image a[href^="/anime/48828/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1175/114610l.jpg)}
 .data.image a[href^="/anime/48829/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1913/114611l.jpg)}
@@ -21833,7 +21836,7 @@
 .data.image a[href^="/anime/50687/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1915/120266l.jpg)}
 .data.image a[href^="/anime/50689/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1526/139694l.jpg)}
 .data.image a[href^="/anime/50691/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1398/120271l.jpg)}
-.data.image a[href^="/anime/50694/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1402/148489l.jpg)}
+.data.image a[href^="/anime/50694/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1691/148602l.jpg)}
 .data.image a[href^="/anime/50695/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1249/132348l.jpg)}
 .data.image a[href^="/anime/50696/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1385/120283l.jpg)}
 .data.image a[href^="/anime/50697/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1213/120288l.jpg)}
@@ -22104,7 +22107,7 @@
 .data.image a[href^="/anime/51325/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1693/121637l.jpg)}
 .data.image a[href^="/anime/51328/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1384/121650l.jpg)}
 .data.image a[href^="/anime/51330/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1346/121652l.jpg)}
-.data.image a[href^="/anime/51333/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1375/121654l.jpg)}
+.data.image a[href^="/anime/51333/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1444/148779l.jpg)}
 .data.image a[href^="/anime/51334/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1473/126467l.jpg)}
 .data.image a[href^="/anime/51335/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1776/122162l.jpg)}
 .data.image a[href^="/anime/51336/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1221/122218l.jpg)}
@@ -22875,7 +22878,7 @@
 .data.image a[href^="/anime/52705/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1469/126795l.jpg)}
 .data.image a[href^="/anime/52706/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1004/126801l.jpg)}
 .data.image a[href^="/anime/52708/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1969/126804l.jpg)}
-.data.image a[href^="/anime/52709/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1138/148270l.jpg)}
+.data.image a[href^="/anime/52709/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1363/148601l.jpg)}
 .data.image a[href^="/anime/52711/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1367/126824l.jpg)}
 .data.image a[href^="/anime/52712/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1882/126828l.jpg)}
 .data.image a[href^="/anime/52713/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1220/126829l.jpg)}
@@ -23436,7 +23439,7 @@
 .data.image a[href^="/anime/53718/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1348/131547l.jpg)}
 .data.image a[href^="/anime/53720/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1271/138244l.jpg)}
 .data.image a[href^="/anime/53721/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1557/131550l.jpg)}
-.data.image a[href^="/anime/53722/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1039/146591l.jpg)}
+.data.image a[href^="/anime/53722/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1282/148596l.jpg)}
 .data.image a[href^="/anime/53723/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1397/145153l.jpg)}
 .data.image a[href^="/anime/53724/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1629/131563l.jpg)}
 .data.image a[href^="/anime/53725/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1035/131564l.jpg)}
@@ -23467,7 +23470,7 @@
 .data.image a[href^="/anime/53757/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1400/131631l.jpg)}
 .data.image a[href^="/anime/53758/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1657/131633l.jpg)}
 .data.image a[href^="/anime/53759/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1211/131634l.jpg)}
-.data.image a[href^="/anime/53762/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1538/142767l.jpg)}
+.data.image a[href^="/anime/53762/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1678/148543l.jpg)}
 .data.image a[href^="/anime/53764/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1622/131639l.jpg)}
 .data.image a[href^="/anime/53765/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1202/131640l.jpg)}
 .data.image a[href^="/anime/53766/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1200/131642l.jpg)}
@@ -23662,7 +23665,7 @@
 .data.image a[href^="/anime/54024/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1016/132168l.jpg)}
 .data.image a[href^="/anime/54026/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1730/132170l.jpg)}
 .data.image a[href^="/anime/54027/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1978/132899l.jpg)}
-.data.image a[href^="/anime/54028/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1649/143699l.jpg)}
+.data.image a[href^="/anime/54028/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1213/148653l.jpg)}
 .data.image a[href^="/anime/54029/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1088/132178l.jpg)}
 .data.image a[href^="/anime/54030/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1451/132179l.jpg)}
 .data.image a[href^="/anime/54031/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1279/132180l.jpg)}
@@ -23766,7 +23769,7 @@
 .data.image a[href^="/anime/54157/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1310/132581l.jpg)}
 .data.image a[href^="/anime/54158/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1297/132582l.jpg)}
 .data.image a[href^="/anime/54159/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1205/132583l.jpg)}
-.data.image a[href^="/anime/54160/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1012/132586l.jpg)}
+.data.image a[href^="/anime/54160/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1424/148808l.jpg)}
 .data.image a[href^="/anime/54162/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1935/132598l.jpg)}
 .data.image a[href^="/anime/54163/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1226/132599l.jpg)}
 .data.image a[href^="/anime/54164/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1153/132600l.jpg)}
@@ -24157,7 +24160,7 @@
 .data.image a[href^="/anime/54858/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1373/135316l.jpg)}
 .data.image a[href^="/anime/54859/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1387/141515l.jpg)}
 .data.image a[href^="/anime/54860/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1158/139265l.jpg)}
-.data.image a[href^="/anime/54863/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1045/144139l.jpg)}
+.data.image a[href^="/anime/54863/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1647/148617l.jpg)}
 .data.image a[href^="/anime/54864/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1039/140414l.jpg)}
 .data.image a[href^="/anime/54865/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1584/144860l.jpg)}
 .data.image a[href^="/anime/54866/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1239/139928l.jpg)}
@@ -24885,7 +24888,7 @@
 .data.image a[href^="/anime/56006/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1141/137186l.jpg)}
 .data.image a[href^="/anime/56007/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1010/137187l.jpg)}
 .data.image a[href^="/anime/56008/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1345/137192l.jpg)}
-.data.image a[href^="/anime/56009/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1404/147503l.jpg)}
+.data.image a[href^="/anime/56009/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1249/148740l.jpg)}
 .data.image a[href^="/anime/56010/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1845/137203l.jpg)}
 .data.image a[href^="/anime/56011/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1871/137204l.jpg)}
 .data.image a[href^="/anime/56012/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1646/137205l.jpg)}
@@ -25455,7 +25458,7 @@
 .data.image a[href^="/anime/56863/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1452/139765l.jpg)}
 .data.image a[href^="/anime/56864/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1413/146526l.jpg)}
 .data.image a[href^="/anime/56869/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1160/139152l.jpg)}
-.data.image a[href^="/anime/56876/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1450/147346l.jpg)}
+.data.image a[href^="/anime/56876/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1026/148655l.jpg)}
 .data.image a[href^="/anime/56877/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1430/147966l.jpg)}
 .data.image a[href^="/anime/56881/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1624/139004l.jpg)}
 .data.image a[href^="/anime/56882/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1560/139009l.jpg)}
@@ -25474,7 +25477,7 @@
 .data.image a[href^="/anime/56903/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1336/139081l.jpg)}
 .data.image a[href^="/anime/56904/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1715/139082l.jpg)}
 .data.image a[href^="/anime/56905/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1884/139086l.jpg)}
-.data.image a[href^="/anime/56906/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1092/139088l.jpg)}
+.data.image a[href^="/anime/56906/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1351/148718l.jpg)}
 .data.image a[href^="/anime/56907/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1431/146723l.jpg)}
 .data.image a[href^="/anime/56908/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1297/139096l.jpg)}
 .data.image a[href^="/anime/56909/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1515/139097l.jpg)}
@@ -25905,7 +25908,7 @@
 .data.image a[href^="/anime/57545/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1791/140403l.jpg)}
 .data.image a[href^="/anime/57548/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1574/141422l.jpg)}
 .data.image a[href^="/anime/57554/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1314/145530l.jpg)}
-.data.image a[href^="/anime/57555/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1258/147105l.jpg)}
+.data.image a[href^="/anime/57555/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1773/148746l.jpg)}
 .data.image a[href^="/anime/57556/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1569/140420l.jpg)}
 .data.image a[href^="/anime/57557/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1105/140422l.jpg)}
 .data.image a[href^="/anime/57559/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1037/145338l.jpg)}
@@ -26074,7 +26077,7 @@
 .data.image a[href^="/anime/57816/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1351/140878l.jpg)}
 .data.image a[href^="/anime/57817/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1696/140879l.jpg)}
 .data.image a[href^="/anime/57818/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1646/140880l.jpg)}
-.data.image a[href^="/anime/57820/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1468/146363l.jpg)}
+.data.image a[href^="/anime/57820/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1967/148714l.jpg)}
 .data.image a[href^="/anime/57821/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1237/140883l.jpg)}
 .data.image a[href^="/anime/57822/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1642/144180l.jpg)}
 .data.image a[href^="/anime/57825/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1696/140895l.jpg)}
@@ -26121,7 +26124,7 @@
 .data.image a[href^="/anime/57883/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1661/140989l.jpg)}
 .data.image a[href^="/anime/57885/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1807/140996l.jpg)}
 .data.image a[href^="/anime/57886/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1417/141001l.jpg)}
-.data.image a[href^="/anime/57888/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1185/141003l.jpg)}
+.data.image a[href^="/anime/57888/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1637/148702l.jpg)}
 .data.image a[href^="/anime/57889/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1779/141004l.jpg)}
 .data.image a[href^="/anime/57890/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1328/141005l.jpg)}
 .data.image a[href^="/anime/57891/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1714/145320l.jpg)}
@@ -26224,7 +26227,7 @@
 .data.image a[href^="/anime/58076/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1986/141332l.jpg)}
 .data.image a[href^="/anime/58079/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1127/142151l.jpg)}
 .data.image a[href^="/anime/58080/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1594/142521l.jpg)}
-.data.image a[href^="/anime/58082/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1706/146392l.jpg)}
+.data.image a[href^="/anime/58082/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1748/148595l.jpg)}
 .data.image a[href^="/anime/58086/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1242/141342l.jpg)}
 .data.image a[href^="/anime/58087/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1621/141345l.jpg)}
 .data.image a[href^="/anime/58091/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1473/141795l.jpg)}
@@ -26444,14 +26447,14 @@
 .data.image a[href^="/anime/58488/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1948/143550l.jpg)}
 .data.image a[href^="/anime/58490/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1137/142165l.jpg)}
 .data.image a[href^="/anime/58491/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1663/144309l.jpg)}
-.data.image a[href^="/anime/58492/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1724/148012l.jpg)}
+.data.image a[href^="/anime/58492/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1677/148603l.jpg)}
 .data.image a[href^="/anime/58493/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1419/142176l.jpg)}
 .data.image a[href^="/anime/58494/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1625/142177l.jpg)}
 .data.image a[href^="/anime/58495/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1823/142178l.jpg)}
 .data.image a[href^="/anime/58498/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1645/142190l.jpg)}
 .data.image a[href^="/anime/58499/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1929/142191l.jpg)}
 .data.image a[href^="/anime/58502/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1003/146841l.jpg)}
-.data.image a[href^="/anime/58505/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1812/142209l.jpg)}
+.data.image a[href^="/anime/58505/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1668/148737l.jpg)}
 .data.image a[href^="/anime/58506/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1344/143568l.jpg)}
 .data.image a[href^="/anime/58507/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1117/142216l.jpg)}
 .data.image a[href^="/anime/58508/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1507/142217l.jpg)}
@@ -26578,7 +26581,7 @@
 .data.image a[href^="/anime/58806/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1184/142884l.jpg)}
 .data.image a[href^="/anime/58807/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1881/142885l.jpg)}
 .data.image a[href^="/anime/58810/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1623/142892l.jpg)}
-.data.image a[href^="/anime/58811/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1155/147400l.jpg)}
+.data.image a[href^="/anime/58811/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1235/148715l.jpg)}
 .data.image a[href^="/anime/58812/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1942/148242l.jpg)}
 .data.image a[href^="/anime/58813/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1255/142904l.jpg)}
 .data.image a[href^="/anime/58814/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1290/142907l.jpg)}
@@ -26638,7 +26641,7 @@
 .data.image a[href^="/anime/58910/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1857/143238l.jpg)}
 .data.image a[href^="/anime/58911/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1325/143239l.jpg)}
 .data.image a[href^="/anime/58912/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1617/143267l.jpg)}
-.data.image a[href^="/anime/58913/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1468/146663l.jpg)}
+.data.image a[href^="/anime/58913/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1104/148614l.jpg)}
 .data.image a[href^="/anime/58915/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1499/143255l.jpg)}
 .data.image a[href^="/anime/58916/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1593/143256l.jpg)}
 .data.image a[href^="/anime/58917/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1196/143257l.jpg)}
@@ -26710,7 +26713,7 @@
 .data.image a[href^="/anime/59023/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1137/143489l.jpg)}
 .data.image a[href^="/anime/59024/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1754/143490l.jpg)}
 .data.image a[href^="/anime/59025/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1762/143491l.jpg)}
-.data.image a[href^="/anime/59027/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1430/143493l.jpg)}
+.data.image a[href^="/anime/59027/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1496/148625l.jpg)}
 .data.image a[href^="/anime/59029/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1946/143496l.jpg)}
 .data.image a[href^="/anime/59030/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1471/143501l.jpg)}
 .data.image a[href^="/anime/59031/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1354/143506l.jpg)}
@@ -26753,7 +26756,7 @@
 .data.image a[href^="/anime/59084/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1321/143601l.jpg)}
 .data.image a[href^="/anime/59085/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1707/143605l.jpg)}
 .data.image a[href^="/anime/59087/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1646/143610l.jpg)}
-.data.image a[href^="/anime/59088/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1051/143611l.jpg)}
+.data.image a[href^="/anime/59088/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1340/148694l.jpg)}
 .data.image a[href^="/anime/59091/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1921/143615l.jpg)}
 .data.image a[href^="/anime/59093/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1672/145343l.jpg)}
 .data.image a[href^="/anime/59094/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1036/143623l.jpg)}
@@ -26774,7 +26777,7 @@
 .data.image a[href^="/anime/59120/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1231/143669l.jpg)}
 .data.image a[href^="/anime/59123/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1897/144484l.jpg)}
 .data.image a[href^="/anime/59128/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1978/143679l.jpg)}
-.data.image a[href^="/anime/59130/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1311/148041l.jpg)}
+.data.image a[href^="/anime/59130/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1013/148555l.jpg)}
 .data.image a[href^="/anime/59131/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1280/143705l.jpg)}
 .data.image a[href^="/anime/59135/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1775/147330l.jpg)}
 .data.image a[href^="/anime/59136/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1974/147269l.jpg)}
@@ -26793,7 +26796,7 @@
 .data.image a[href^="/anime/59151/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1542/143753l.jpg)}
 .data.image a[href^="/anime/59152/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1699/143754l.jpg)}
 .data.image a[href^="/anime/59156/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1424/143751l.jpg)}
-.data.image a[href^="/anime/59160/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1866/148300l.jpg)}
+.data.image a[href^="/anime/59160/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1496/148782l.jpg)}
 .data.image a[href^="/anime/59161/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1974/147720l.jpg)}
 .data.image a[href^="/anime/59162/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1937/143762l.jpg)}
 .data.image a[href^="/anime/59163/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1288/143893l.jpg)}
@@ -26992,7 +26995,7 @@
 .data.image a[href^="/anime/59452/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1069/148148l.jpg)}
 .data.image a[href^="/anime/59455/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1667/144588l.jpg)}
 .data.image a[href^="/anime/59456/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1305/144592l.jpg)}
-.data.image a[href^="/anime/59457/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1999/144601l.jpg)}
+.data.image a[href^="/anime/59457/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1521/148809l.jpg)}
 .data.image a[href^="/anime/59458/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1109/146740l.jpg)}
 .data.image a[href^="/anime/59459/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1888/147310l.jpg)}
 .data.image a[href^="/anime/59460/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1783/144613l.jpg)}
@@ -27106,7 +27109,7 @@
 .data.image a[href^="/anime/59636/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1626/148097l.jpg)}
 .data.image a[href^="/anime/59640/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1049/145045l.jpg)}
 .data.image a[href^="/anime/59642/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1568/145049l.jpg)}
-.data.image a[href^="/anime/59644/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1682/147931l.jpg)}
+.data.image a[href^="/anime/59644/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1026/148556l.jpg)}
 .data.image a[href^="/anime/59647/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1361/145058l.jpg)}
 .data.image a[href^="/anime/59648/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1436/145059l.jpg)}
 .data.image a[href^="/anime/59649/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1475/145060l.jpg)}
@@ -27120,7 +27123,7 @@
 .data.image a[href^="/anime/59664/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1292/145096l.jpg)}
 .data.image a[href^="/anime/59666/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1195/147502l.jpg)}
 .data.image a[href^="/anime/59668/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1012/145099l.jpg)}
-.data.image a[href^="/anime/59675/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1183/147649l.jpg)}
+.data.image a[href^="/anime/59675/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1511/148642l.jpg)}
 .data.image a[href^="/anime/59676/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1080/145111l.jpg)}
 .data.image a[href^="/anime/59678/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1365/145113l.jpg)}
 .data.image a[href^="/anime/59679/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1527/145115l.jpg)}
@@ -27161,14 +27164,14 @@
 .data.image a[href^="/anime/59724/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1275/145217l.jpg)}
 .data.image a[href^="/anime/59728/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1477/145236l.jpg)}
 .data.image a[href^="/anime/59729/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1719/145238l.jpg)}
-.data.image a[href^="/anime/59730/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1167/146455l.jpg)}
+.data.image a[href^="/anime/59730/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1378/148615l.jpg)}
 .data.image a[href^="/anime/59732/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1155/145243l.jpg)}
 .data.image a[href^="/anime/59738/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1504/145261l.jpg)}
 .data.image a[href^="/anime/59739/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1683/145263l.jpg)}
 .data.image a[href^="/anime/59740/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1552/145268l.jpg)}
 .data.image a[href^="/anime/59741/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1502/145271l.jpg)}
 .data.image a[href^="/anime/59742/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1476/145303l.jpg)}
-.data.image a[href^="/anime/59744/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1838/148071l.jpg)}
+.data.image a[href^="/anime/59744/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1907/148540l.jpg)}
 .data.image a[href^="/anime/59745/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1192/148314l.jpg)}
 .data.image a[href^="/anime/59746/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1210/145316l.jpg)}
 .data.image a[href^="/anime/59747/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1505/145318l.jpg)}
@@ -27196,7 +27199,7 @@
 .data.image a[href^="/anime/59787/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1462/145387l.jpg)}
 .data.image a[href^="/anime/59789/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1207/145399l.jpg)}
 .data.image a[href^="/anime/59790/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1769/145400l.jpg)}
-.data.image a[href^="/anime/59791/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1885/145516l.jpg)}
+.data.image a[href^="/anime/59791/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1431/148742l.jpg)}
 .data.image a[href^="/anime/59793/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1256/145414l.jpg)}
 .data.image a[href^="/anime/59794/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1043/145415l.jpg)}
 .data.image a[href^="/anime/59795/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1144/145416l.jpg)}
@@ -27229,10 +27232,10 @@
 .data.image a[href^="/anime/59841/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1983/146190l.jpg)}
 .data.image a[href^="/anime/59843/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1566/145506l.jpg)}
 .data.image a[href^="/anime/59844/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1744/145510l.jpg)}
-.data.image a[href^="/anime/59845/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1958/145511l.jpg)}
-.data.image a[href^="/anime/59846/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1212/145512l.jpg)}
+.data.image a[href^="/anime/59845/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1013/148711l.jpg)}
+.data.image a[href^="/anime/59846/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1725/148741l.jpg)}
 .data.image a[href^="/anime/59847/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1618/145513l.jpg)}
-.data.image a[href^="/anime/59848/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1041/145514l.jpg)}
+.data.image a[href^="/anime/59848/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1320/148690l.jpg)}
 .data.image a[href^="/anime/59849/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1184/145515l.jpg)}
 .data.image a[href^="/anime/59850/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1553/145517l.jpg)}
 .data.image a[href^="/anime/59851/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1996/145519l.jpg)}
@@ -27269,7 +27272,7 @@
 .data.image a[href^="/anime/59894/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1583/145688l.jpg)}
 .data.image a[href^="/anime/59895/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1008/145673l.jpg)}
 .data.image a[href^="/anime/59896/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1300/145675l.jpg)}
-.data.image a[href^="/anime/59897/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1856/147513l.jpg)}
+.data.image a[href^="/anime/59897/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1134/148744l.jpg)}
 .data.image a[href^="/anime/59898/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1724/147898l.jpg)}
 .data.image a[href^="/anime/59899/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1666/145680l.jpg)}
 .data.image a[href^="/anime/59901/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1321/145689l.jpg)}
@@ -27346,7 +27349,7 @@
 .data.image a[href^="/anime/60022/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1455/146229l.jpg)}
 .data.image a[href^="/anime/60023/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1039/145882l.jpg)}
 .data.image a[href^="/anime/60024/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1651/145884l.jpg)}
-.data.image a[href^="/anime/60028/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1719/145897l.jpg)}
+.data.image a[href^="/anime/60028/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1801/148621l.jpg)}
 .data.image a[href^="/anime/60029/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1147/145898l.jpg)}
 .data.image a[href^="/anime/60030/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1846/145899l.jpg)}
 .data.image a[href^="/anime/60031/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1089/145900l.jpg)}
@@ -27390,7 +27393,7 @@
 .data.image a[href^="/anime/60092/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1892/146042l.jpg)}
 .data.image a[href^="/anime/60093/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1984/146043l.jpg)}
 .data.image a[href^="/anime/60094/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1511/146045l.jpg)}
-.data.image a[href^="/anime/60098/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1766/146050l.jpg)}
+.data.image a[href^="/anime/60098/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1441/148713l.jpg)}
 .data.image a[href^="/anime/60104/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1691/146057l.jpg)}
 .data.image a[href^="/anime/60107/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1579/146060l.jpg)}
 .data.image a[href^="/anime/60108/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1928/146063l.jpg)}
@@ -27411,10 +27414,10 @@
 .data.image a[href^="/anime/60146/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1712/148299l.jpg)}
 .data.image a[href^="/anime/60147/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1523/146646l.jpg)}
 .data.image a[href^="/anime/60148/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1060/146145l.jpg)}
-.data.image a[href^="/anime/60151/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1318/146158l.jpg)}
+.data.image a[href^="/anime/60151/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1558/148652l.jpg)}
 .data.image a[href^="/anime/60152/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1246/146159l.jpg)}
 .data.image a[href^="/anime/60153/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1327/146160l.jpg)}
-.data.image a[href^="/anime/60154/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1785/147514l.jpg)}
+.data.image a[href^="/anime/60154/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1703/148600l.jpg)}
 .data.image a[href^="/anime/60157/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1263/148318l.jpg)}
 .data.image a[href^="/anime/60159/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1386/146167l.jpg)}
 .data.image a[href^="/anime/60160/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1093/146168l.jpg)}
@@ -27477,9 +27480,9 @@
 .data.image a[href^="/anime/60280/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1143/146447l.jpg)}
 .data.image a[href^="/anime/60283/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1304/146456l.jpg)}
 .data.image a[href^="/anime/60284/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1680/146457l.jpg)}
-.data.image a[href^="/anime/60285/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1031/146460l.jpg)}
+.data.image a[href^="/anime/60285/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1758/148719l.jpg)}
 .data.image a[href^="/anime/60289/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1840/146491l.jpg)}
-.data.image a[href^="/anime/60293/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1406/146495l.jpg)}
+.data.image a[href^="/anime/60293/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1065/148659l.jpg)}
 .data.image a[href^="/anime/60294/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1519/146498l.jpg)}
 .data.image a[href^="/anime/60295/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1274/146501l.jpg)}
 .data.image a[href^="/anime/60297/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1652/146507l.jpg)}
@@ -27511,7 +27514,7 @@
 .data.image a[href^="/anime/60342/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1043/146578l.jpg)}
 .data.image a[href^="/anime/60343/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1314/146579l.jpg)}
 .data.image a[href^="/anime/60344/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1087/146580l.jpg)}
-.data.image a[href^="/anime/60347/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1816/146589l.jpg)}
+.data.image a[href^="/anime/60347/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1836/148551l.jpg)}
 .data.image a[href^="/anime/60348/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1428/146593l.jpg)}
 .data.image a[href^="/anime/60349/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1411/146594l.jpg)}
 .data.image a[href^="/anime/60351/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1958/146600l.jpg)}
@@ -27579,7 +27582,7 @@
 .data.image a[href^="/anime/60445/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1036/148145l.jpg)}
 .data.image a[href^="/anime/60446/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1957/146803l.jpg)}
 .data.image a[href^="/anime/60447/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1934/146804l.jpg)}
-.data.image a[href^="/anime/60449/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1803/146807l.jpg)}
+.data.image a[href^="/anime/60449/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1052/148743l.jpg)}
 .data.image a[href^="/anime/60450/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1243/146814l.jpg)}
 .data.image a[href^="/anime/60451/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1698/146815l.jpg)}
 .data.image a[href^="/anime/60452/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1161/146816l.jpg)}
@@ -27649,7 +27652,7 @@
 .data.image a[href^="/anime/60548/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1800/148268l.jpg)}
 .data.image a[href^="/anime/60549/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1589/148473l.jpg)}
 .data.image a[href^="/anime/60550/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1060/147018l.jpg)}
-.data.image a[href^="/anime/60551/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1195/147021l.jpg)}
+.data.image a[href^="/anime/60551/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1279/148760l.jpg)}
 .data.image a[href^="/anime/60552/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1944/147019l.jpg)}
 .data.image a[href^="/anime/60553/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1365/147033l.jpg)}
 .data.image a[href^="/anime/60554/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1641/147022l.jpg)}
@@ -27684,7 +27687,7 @@
 .data.image a[href^="/anime/60589/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1134/147081l.jpg)}
 .data.image a[href^="/anime/60590/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1383/147082l.jpg)}
 .data.image a[href^="/anime/60591/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1871/147084l.jpg)}
-.data.image a[href^="/anime/60593/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1996/148412l.jpg)}
+.data.image a[href^="/anime/60593/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1538/148604l.jpg)}
 .data.image a[href^="/anime/60594/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1212/147098l.jpg)}
 .data.image a[href^="/anime/60595/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1507/147143l.jpg)}
 .data.image a[href^="/anime/60596/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1355/147144l.jpg)}
@@ -27712,7 +27715,7 @@
 .data.image a[href^="/anime/60634/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1891/147210l.jpg)}
 .data.image a[href^="/anime/60635/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1032/147215l.jpg)}
 .data.image a[href^="/anime/60636/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1905/147227l.jpg)}
-.data.image a[href^="/anime/60637/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1552/147217l.jpg)}
+.data.image a[href^="/anime/60637/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1712/148695l.jpg)}
 .data.image a[href^="/anime/60642/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1171/147233l.jpg)}
 .data.image a[href^="/anime/60643/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1649/147235l.jpg)}
 .data.image a[href^="/anime/60644/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1607/147236l.jpg)}
@@ -27963,6 +27966,7 @@
 .data.image a[href^="/anime/61027/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1697/148035l.jpg)}
 .data.image a[href^="/anime/61028/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1239/148036l.jpg)}
 .data.image a[href^="/anime/61029/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1074/148037l.jpg)}
+.data.image a[href^="/anime/61030/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1890/148042l.jpg)}
 .data.image a[href^="/anime/61031/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1852/148043l.jpg)}
 .data.image a[href^="/anime/61032/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1954/148044l.jpg)}
 .data.image a[href^="/anime/61033/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1399/148045l.jpg)}
@@ -27972,6 +27976,7 @@
 .data.image a[href^="/anime/61039/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1421/148065l.jpg)}
 .data.image a[href^="/anime/61040/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1701/148066l.jpg)}
 .data.image a[href^="/anime/61041/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1104/148067l.jpg)}
+.data.image a[href^="/anime/61045/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1991/148206l.jpg)}
 .data.image a[href^="/anime/61046/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1649/148083l.jpg)}
 .data.image a[href^="/anime/61048/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1349/148085l.jpg)}
 .data.image a[href^="/anime/61049/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1108/148086l.jpg)}
@@ -28001,12 +28006,14 @@
 .data.image a[href^="/anime/61098/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1600/148198l.jpg)}
 .data.image a[href^="/anime/61099/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1875/148181l.jpg)}
 .data.image a[href^="/anime/61102/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1733/148187l.jpg)}
+.data.image a[href^="/anime/61103/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1380/148188l.jpg)}
 .data.image a[href^="/anime/61106/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1029/148204l.jpg)}
 .data.image a[href^="/anime/61107/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1588/148202l.jpg)}
-.data.image a[href^="/anime/61108/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1399/148203l.jpg)}
+.data.image a[href^="/anime/61108/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1624/148558l.jpg)}
 .data.image a[href^="/anime/61110/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1785/148209l.jpg)}
 .data.image a[href^="/anime/61114/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1393/148219l.jpg)}
 .data.image a[href^="/anime/61115/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1393/148220l.jpg)}
+.data.image a[href^="/anime/61120/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1791/148233l.jpg)}
 .data.image a[href^="/anime/61124/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1206/148240l.jpg)}
 .data.image a[href^="/anime/61125/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1540/148249l.jpg)}
 .data.image a[href^="/anime/61126/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1051/148250l.jpg)}
@@ -28026,13 +28033,14 @@
 .data.image a[href^="/anime/61149/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1141/148311l.jpg)}
 .data.image a[href^="/anime/61150/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1100/148312l.jpg)}
 .data.image a[href^="/anime/61151/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1550/148313l.jpg)}
-.data.image a[href^="/anime/61153/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1999/148320l.jpg)}
+.data.image a[href^="/anime/61153/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1667/148703l.jpg)}
 .data.image a[href^="/anime/61154/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1209/148344l.jpg)}
 .data.image a[href^="/anime/61156/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1053/148346l.jpg)}
 .data.image a[href^="/anime/61157/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1748/148351l.jpg)}
-.data.image a[href^="/anime/61159/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1209/148359l.jpg)}
+.data.image a[href^="/anime/61159/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1933/148739l.jpg)}
 .data.image a[href^="/anime/61160/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1833/148362l.jpg)}
 .data.image a[href^="/anime/61161/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1505/148363l.jpg)}
+.data.image a[href^="/anime/61164/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1670/148371l.jpg)}
 .data.image a[href^="/anime/61165/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1830/148384l.jpg)}
 .data.image a[href^="/anime/61166/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1661/148373l.jpg)}
 .data.image a[href^="/anime/61167/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1544/148383l.jpg)}
@@ -28053,14 +28061,49 @@
 .data.image a[href^="/anime/61196/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1250/148452l.jpg)}
 .data.image a[href^="/anime/61199/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1523/148458l.jpg)}
 .data.image a[href^="/anime/61200/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1169/148460l.jpg)}
+.data.image a[href^="/anime/61201/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1813/148465l.jpg)}
 .data.image a[href^="/anime/61202/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1379/148467l.jpg)}
 .data.image a[href^="/anime/61203/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1276/148468l.jpg)}
+.data.image a[href^="/anime/61204/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1001/148469l.jpg)}
 .data.image a[href^="/anime/61207/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1683/148476l.jpg)}
 .data.image a[href^="/anime/61209/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1491/148479l.jpg)}
 .data.image a[href^="/anime/61211/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1884/148481l.jpg)}
+.data.image a[href^="/anime/61215/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1641/148485l.jpg)}
+.data.image a[href^="/anime/61216/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1679/148486l.jpg)}
 .data.image a[href^="/anime/61217/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1893/148487l.jpg)}
+.data.image a[href^="/anime/61220/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1720/148490l.jpg)}
+.data.image a[href^="/anime/61221/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1130/148491l.jpg)}
+.data.image a[href^="/anime/61222/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1361/148559l.jpg)}
 .data.image a[href^="/anime/61224/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1595/148494l.jpg)}
 .data.image a[href^="/anime/61227/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1990/148503l.jpg)}
 .data.image a[href^="/anime/61230/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1913/148510l.jpg)}
+.data.image a[href^="/anime/61232/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1282/148534l.jpg)}
+.data.image a[href^="/anime/61235/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1852/148519l.jpg)}
+.data.image a[href^="/anime/61236/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1971/148520l.jpg)}
+.data.image a[href^="/anime/61238/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1447/148523l.jpg)}
 .data.image a[href^="/anime/61239/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1265/148526l.jpg)}
 .data.image a[href^="/anime/61240/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1177/148527l.jpg)}
+.data.image a[href^="/anime/61242/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1013/148535l.jpg)}
+.data.image a[href^="/anime/61247/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1750/148537l.jpg)}
+.data.image a[href^="/anime/61248/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1087/148538l.jpg)}
+.data.image a[href^="/anime/61252/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1565/148546l.jpg)}
+.data.image a[href^="/anime/61253/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1397/148547l.jpg)}
+.data.image a[href^="/anime/61256/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1918/148553l.jpg)}
+.data.image a[href^="/anime/61258/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1254/148557l.jpg)}
+.data.image a[href^="/anime/61259/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1602/148597l.jpg)}
+.data.image a[href^="/anime/61261/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1146/148583l.jpg)}
+.data.image a[href^="/anime/61262/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1632/148585l.jpg)}
+.data.image a[href^="/anime/61263/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1067/148586l.jpg)}
+.data.image a[href^="/anime/61267/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1553/148610l.jpg)}
+.data.image a[href^="/anime/61269/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1945/148620l.jpg)}
+.data.image a[href^="/anime/61274/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1243/148640l.jpg)}
+.data.image a[href^="/anime/61276/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1411/148643l.jpg)}
+.data.image a[href^="/anime/61280/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1910/148648l.jpg)}
+.data.image a[href^="/anime/61282/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1499/148663l.jpg)}
+.data.image a[href^="/anime/61286/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1537/148675l.jpg)}
+.data.image a[href^="/anime/61292/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1391/148722l.jpg)}
+.data.image a[href^="/anime/61293/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1304/148725l.jpg)}
+.data.image a[href^="/anime/61294/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1409/148730l.jpg)}
+.data.image a[href^="/anime/61295/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1836/148748l.jpg)}
+.data.image a[href^="/anime/61301/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1494/148774l.jpg)}
+.data.image a[href^="/anime/61304/"]:before{background-image:url(https://cdn.myanimelist.net/images/anime/1821/148784l.jpg)}
