@@ -1,4 +1,5 @@
 @import "https://malscraper.azurewebsites.net/covers/all/anime/presets/animetitle";
+@import "https://malscraper.azurewebsites.net/covers/all/manga/presets/animetitle";
 {}
 
 .animetitle[href^="/anime/55408/"]{background-image:url(https://i.ibb.co/4ZQjX1h/1200x1200bf-60-1.jpg) !important;}
@@ -10,6 +11,9 @@
 .animetitle[href^="/anime/56894/"]{background-image:url(https://i.ibb.co/bBvNQTz/144331l-1.jpg) !important;}
 
 .animetitle[href^="/anime/4772/"]{background-image:url(https://i.ibb.co/0KyffDS/pasted-image-0-1.png) !important;}
+
+.animetitle[href^="/anime/35104/"]{background-image:url(https://i.ibb.co/qYm3RKTW/xmascover2-1.jpg) !important;}
+
 
 /* anime preset: animetitle */
 /* Generated: 2025-04-11T21:01:43Z */
