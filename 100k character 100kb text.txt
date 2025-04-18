@@ -524,7 +524,7 @@ I was flushed by her summary of delights, and replied that it would indeed be a 
 
 ‘Why then I’ll as good as bet a guinea,’ said Peggotty, intent upon my face, ‘that she’ll let us go. I’ll ask her, if you like, as soon as ever she comes home. There now!’
 
-‘But what’s she to do while we’re away?’ said I, putting my small elbows on the table to argue the point. ‘She can’t live by herself.’
+‘But what’s she to do whilaid I, putting my small elbows on the table to argue the point. ‘She can’t live by herself.’
 
 If Peggotty were looking for a hole, all of a sudden, in the heel of that stocking, it must have been a very little one indeed, and not worth darning.
 
@@ -563,34 +563,14 @@ and the carts jingling up aelight with great complacency, and told me it was wel
 
 Let me remember how it used to be, and bring one morning back again.
 
-65,535 CHARACTERS HERE :D 
+#########
 
+65,535 CHARACTERS HERE :D ----> *
 
-##################################
-
-##################################
-
-##################################
-
-##################################
-
-##################################
-
-##################################
-
-##################################
-
-##################################
-
-##################################
-
-##################################
-
-################################
 
 Let me remember how it used to be, and bring one morning back again.
 
-66,000 CHARACTERS END :D 
+########################### 
 
 
 
@@ -858,11 +838,36 @@ Let me remember how it used to be, and bring one morning back again.
 
 ################################
 
-
-100,000 CHARACTERS END :D 
-
-
+################################
 
 ################################
 
-100,000 CHARACTERS + 
+################################
+
+################################
+
+################################
+
+################################
+
+################################
+
+################################
+
+################################
+
+################################
+
+################################
+
+#####
+
+100,000 CHARACTERS START HERE :D --> *
+
+################################
+
+################################
+
+################################
+
+################################
